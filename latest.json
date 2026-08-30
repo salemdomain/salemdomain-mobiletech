@@ -4,8 +4,8 @@
   "pub_date": "2026-08-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_THE_CONTENTS_OF_THE_GENERATED_SIG_FILE_HERE",
-      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/0.0.32/salemdomain.pos_0.0.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmRGYlZLRkp5WlkxUXNwRzFXNnA0MDkvMkphVGdHYkI1dEtLQmk4VkIySDFseEVNOU9zaHNScEo0a1p3eExQUGwxenc3a0tJMHR5RDBvTWlwNlduSUtzbndQR09rZWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDg2NjA1CWZpbGU6U2FsZW1Eb21haW5fMC4xLjFfeDY0LXNldHVwLmV4ZQpUaTRzRzdRbGprSnFnQzRpVDFPemRBN0NUb0Rvdksza1NDY1dkUEtXNXhNVjZlc081WDZkYmVPN0hVVXFtOW1xdlZOcEJpWVpEVEYvSklVdHFzaEdEZz09Cg==",
+      "url": "https://github.com/salemdomain/salemdomain-mobiletech/releases/download/v0.1.1/SalemDomain_0.1.1_x64-setup.exe"
     }
   }
 }
