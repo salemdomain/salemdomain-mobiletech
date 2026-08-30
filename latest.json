@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "PASTE_THE_CONTENTS_OF_THE_GENERATED_SIG_FILE_HERE",
-      "url": "https://github.com/salemdomain/salemdomain-mobiletech/releases/download/1.0.1/salemdomain.pos_0.0.32_x86-setup.exe"
+      "url": "https://github.com/salemdomain/salemdomainpos/releases/download/0.0.32/salemdomain.pos_0.0.32_x64-setup.exe"
     }
   }
 }
