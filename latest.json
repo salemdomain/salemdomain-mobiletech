@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "notes": "salemdomain mobiletech",
   "pub_date": "2026-11-05T15:02:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmRGYlZLRkp5WlpZVlRzeUo3bkZvNi9WMjZuczlZS2lnWFduditSS3ZTMjZTbkh3WFN3enZzOWNUZktrS3NOcE14Wnd6WFhITlhxZVN1Zy9nWEovcFEyL25OT0JmeFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMyMjM3CWZpbGU6U2FsZW1Eb21haW5fMC4wLjFfeDY0LXNldHVwLmV4ZQpURGNvL0tiRjdBOEhWN0JreVUwRXFCcVQrUFd4QzNEcHhEbmRjVG1DQUZJUm1KcXBJRUlyZzRXQ0ZBMFF5ZFVRR2VQdHFvMndYcWtIOHhHMmorSmtCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmRGYlZLRkp5WmFNOWpqeC9ObVF1OXFYQ2tzcW1yMUFjeDltdlRDVW5oSUJQemhSZ0RtODZwUjRKWU9uN0F0NStvZHgwVXAyVjZaSkE1b1N1ejRqaUZwT3B4UklVdUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg1NTUzCWZpbGU6U2FsZW1Eb21haW5fMC4wLjFfeDY0LXNldHVwLmV4ZQpOK1BGdlg1SlEyNVQ4YjFMbnlFR2c0RFBrVVhzTUtISmpra0FDT1RVaU1FUmppNEdkcG9XQ0R3TitmME9XZkhNY2IyL1ZRZjJxYit5Z1pmQTZDc0VDdz09Cg==",
       "url": "https://github.com/salemdomain/salemdomain-mobiletech/releases/download/v0.1.1/SalemDomain_0.0.1_x64-setup.exe"
     }
   }
